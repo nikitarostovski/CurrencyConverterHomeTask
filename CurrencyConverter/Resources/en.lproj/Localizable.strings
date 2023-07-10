@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  CurrencyConverter
+
+  Created by Rost on 17.06.2023.
+  
+*/
+
+"lastUpdated" = "Last updated:";
+"selectBaseCurrency" = "Select base currency";
+"noRatesAvailable" = "No rates available";
+"unknownError" = "Unknown error";
+"loadingRates" = "Loading rates";
+
+"close" = "Close";
+"retry" = "Retry";
+"select" = "Select";

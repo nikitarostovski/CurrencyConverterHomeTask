@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  CurrencyConverter
+
+  Created by Rost on 17.06.2023.
+  
+*/
+
+"lastUpdated" = "最終更新";
+"selectBaseCurrency" = "基本通貨を選択してください";
+"noRatesAvailable" = "データなし";
+"unknownError" = "不明なエラー";
+"loadingRates" = "データのロード";
+
+"close" = "近い";
+"retry" = "リトライ";
+"select" = "選択する";
